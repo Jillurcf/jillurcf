@@ -7,4 +7,5 @@
 - 👯 I’m looking to collaborate on professional team
 - 🤔 I’m looking for help with other web developer
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Technology I love to use
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,tailwind,firebase)](https://skillicons.dev)
