@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with other web developer
 
 ## My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jillurcf)](https://git.io/streak-stats)
 
 ## Technology I love to use
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,tailwind,firebase)](https://skillicons.dev)
