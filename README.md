@@ -3,8 +3,8 @@
 
 # Overview
 
-- 🔭 I’m currently working on a frontend base website
-- 🌱 I’m currently learning next.js with Mui
+- 🔭 I’m currently working on a react-native for app development and react/next.js for website
+- 🌱 I’m currently learning w3.js with Mui
 - 👯 I’m looking to collaborate on professional team
 - 🤔 I’m looking for help with other web developer
 
