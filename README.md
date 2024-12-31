@@ -12,4 +12,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jillurcf)](https://git.io/streak-stats)
 
 ## Technology I love to use
-[![My Skills](https://skillicons.dev/icons?i=js,java,react,nodejs,mongodb,html,tailwind,firebase,figma&theme=light,Ai,Ps,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,react,nodejs,mongodb,html,tailwind,firebase,figma,Ai,Ps,git,docker)](https://skillicons.dev)
