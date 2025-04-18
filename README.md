@@ -4,7 +4,7 @@
 # Overview
 
 - 🔭 I’m currently working on a react-native for app development and react/next.js for website
-- 🌱 I’m currently learning w3.js
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on professional team
 - 🤔 I’m looking for help with other web developer
 
