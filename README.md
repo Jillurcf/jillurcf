@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Hero Banner -->
-  <img src="./githubBanner.png" alt="Jillur Rahman Banner" width="100%" />
+  <img src="./banner.svg" alt="Jillur Rahman Animated Banner" width="100%" />
 
   <br/><br/>
 
